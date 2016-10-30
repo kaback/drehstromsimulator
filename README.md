@@ -1,0 +1,2 @@
+# drehstromsimulator
+KiCad Drehstromsimulator Projekt
